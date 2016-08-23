@@ -1,16 +1,16 @@
-typography_spectrum: 0.10107209323905408
+layout_spectrum: 0.75867407489568
+typography_spectrum: 0.8033626328688115
 color:
-  brandStrength: 0.29311717371456325
-  lightness: 0.7304156213067472
-  saturation: 0.33172899996861815
-  rhythmicContrast: 0.222073367331177
+  brandStrength: 0.7892557929735631
+  lightness: 0.3192808295134455
+  saturation: 0.743632898433134
+  rhythmicContrast: 0.5893569632899016
   brandColors:
-    - '#847967'
-    - '#251B12'
-    - '#3F4447'
-    - '#FFFFFD'
-    - '#D6B29D'
-layout_spectrum: 0.7271840998437256
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: RyanBoyko.com
 title: Ryan Boyko
 description: 'Canadian Actor, Writer and Producer'
